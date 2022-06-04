@@ -1,4 +1,6 @@
+
 "use strict";
+import'./main.scss'
 interface IUsers {
     name : string,
     phone:string,
