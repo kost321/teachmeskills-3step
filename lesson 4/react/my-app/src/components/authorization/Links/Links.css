@@ -1,0 +1,26 @@
+.links__container {
+    display: flex;
+    flex-direction: column;
+    max-width: 740px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    align-items:center;
+}
+
+.top__link {
+    font-family: 'Inter';
+    font-weight: 400;
+    color: #313037;
+    cursor: pointer;
+
+}
+
+.buttom__link {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 56px;
+    color: #313037;
+    margin-top: 10px;
+    padding-left: 80px;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.container__pagination {
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+    padding-bottom: 40px;
+}
+
+.block__pagination {
+    display: flex;
+    width: 70px;
+    justify-content: space-between;
+}

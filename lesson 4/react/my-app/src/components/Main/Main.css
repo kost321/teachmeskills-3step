@@ -1,0 +1,15 @@
+.container__main {
+   margin: 0 auto;
+   max-width: 1000px;
+   margin-top: 35px;
+   max-height: 1675px;
+}
+.name__content{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+display: flex;
+align-items: center;
+color: #313037;
+}

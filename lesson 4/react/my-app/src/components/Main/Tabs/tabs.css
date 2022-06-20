@@ -1,0 +1,14 @@
+.block__tabs {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+.tabs__item {
+    cursor: pointer;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 16px;
+    color: #313037;
+}

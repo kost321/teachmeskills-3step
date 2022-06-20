@@ -1,0 +1,24 @@
+.input {
+    outline: none;
+    border: 0;
+    margin: 0;
+    display: flex;
+    background-color: blue;
+}
+
+.input__search {
+    background-color:#5360CD;
+    border: 0;
+    width: 1230px;
+    outline: none;
+}
+input::placeholder {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+position: relative;
+left: 50px;
+color: rgba(255, 255, 255, 0.5);
+}

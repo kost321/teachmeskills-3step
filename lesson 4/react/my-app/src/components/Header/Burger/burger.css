@@ -1,0 +1,10 @@
+.block__icon{
+    width: 100px;
+    border-right: 1px solid #5360CD;
+}
+.icon{
+position: relative;
+   text-align: center;
+   top:30px;
+   cursor: pointer;
+}

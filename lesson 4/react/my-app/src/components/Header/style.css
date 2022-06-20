@@ -1,0 +1,6 @@
+.header {
+    display: flex;
+    background-color: #2231AA;
+    height: 84px;
+    justify-content: space-between;
+}

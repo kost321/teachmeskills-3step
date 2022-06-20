@@ -1,0 +1,76 @@
+.container__autorization {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 624px;
+    height: 416px;
+    border: 1px solid #DADADA;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.user__authorization {
+    display: flex;
+    flex-direction: column;
+    height: 392px;
+    justify-content: space-between;
+}
+
+.autorization__item {
+    padding-bottom: 8px;
+    width: 100%;
+    display: flex;
+    font-family: 'Inter';
+    font-weight: 600;
+    line-height: 20px;
+    color: #313037;
+}
+
+.container__user-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 244px;
+}
+
+.user__input {
+    width: 100%;
+    height: 46px;
+    color: rgb(0, 0, 0)
+}
+
+.user__input::placeholder {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    color: #8D8E97;
+    right: 100px;
+}
+
+.block__user-form {
+    min-width: 544px;
+}
+
+.item__password {
+    cursor: pointer;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 56px;
+    background: #2231AA;
+    border-radius: 2px;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-color: #2231AA;
+}
+
+.url__sign-up {
+    text-decoration: none;
+}
